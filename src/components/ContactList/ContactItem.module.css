@@ -1,0 +1,16 @@
+.list {
+    display: flex;
+
+    align-items: center;
+}
+
+.btn {
+    cursor: pointer;
+    margin-left: 10px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: red;
+}

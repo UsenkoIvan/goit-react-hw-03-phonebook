@@ -1,0 +1,16 @@
+.form {
+    width: 500px;
+    border: solid 1px black;
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+
+.btn {
+    display: block;
+    margin-top: 10px;
+    border-radius: 10%;
+
+}
